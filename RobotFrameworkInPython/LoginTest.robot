@@ -37,7 +37,9 @@ This is my Third Test
     [Tags]    Acceptance
     Log     I am in Third Test
 
-
+This is my Fourth Test
+    [Tags]    Acceptance
+    Log     I am in Fourth Test
 
 *** Keywords ***
 Open Browser and open URL      
